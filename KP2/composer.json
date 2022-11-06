@@ -1,0 +1,20 @@
+{
+    "name": "app/courseproject",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\courseProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mikhail Popov",
+            "email": "coollen@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.20",
+        "ext-pdo": "*",
+        "symfony/polyfill-uuid": "^1.26"
+    }
+}
