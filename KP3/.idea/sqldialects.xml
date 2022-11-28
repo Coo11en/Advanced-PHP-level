@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/Blog/Repository/Sqlite/SqlitePostsRepository.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/Blog/Repository/Sqlite/SqliteUsersRepository.php" dialect="SQLite" />
+    <file url="PROJECT" dialect="SQLite" />
+  </component>
+</project>
